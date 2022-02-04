@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: rgb(255, 73, 1);
+  color: rgb(255, 1, 1);
 }
 #hero p {
   color: rgb(255, 75, 4);
@@ -219,7 +219,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 50px;
   font-family: "Poppins", sans-serif;
 }
-#hero p span {
+#hero p em {
   color: rgb(239, 7, 247);
   padding-bottom: 4px;
   letter-spacing: 1px;
